@@ -1,0 +1,14 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "python-envs.pythonProjects": [],
+    "terminal.integrated.suggest.suggestOnTriggerCharacters": true,
+    "terminal.integrated.suggest.insertTrailingSpace": true,
+    "editor.suggest.preview": true,
+    "editor.aiStats.enabled": true,
+    "python.analysis.aiHoverSummaries": true,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "path-intellisense.autoTriggerNextSuggestion": true,
+    "files.autoSave": "afterDelay",
+    "editor.inlineSuggest.suppressSuggestions": true,
+    "search.searchView.keywordSuggestions": true
+}
