@@ -1,0 +1,5 @@
+para=input("Enter a string: ")
+words=para.lower().split()
+unique_words=set(words)
+print(len(unique_words))
+print(unique_words)
